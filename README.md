@@ -51,8 +51,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/CarlJSL/CarlJSL/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p data-importer="text" align="left">Hello World!!</p>
