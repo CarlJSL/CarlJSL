@@ -1,10 +1,14 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&section=header&reversal=false&text=I%20am%20Carlos%20!!&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&section=header&reversal=false&text=Hi%20there,%20I'm%20Carlos!&fontSize=40&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZkMjA5ZDM5a2FjaXk2ZzgzZzBxMGhnM3Y2aHU3eXhnc2k3dGpqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ix9dfdG9iG1x5eow9B/giphy.gif"  />
+<img data-importer="image" align="right" height="163" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZkMjA5ZDM5a2FjaXk2ZzgzZzBxMGhnM3Y2aHU3eXhnc2k3dGpqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ix9dfdG9iG1x5eow9B/giphy.gif"  />
+
+###
+
+<p data-importer="text" align="center">Bachiller en Ingeniería Informática</p>
 
 ###
 
@@ -48,6 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
