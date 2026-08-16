@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="center">Bachiller en Ingeniería Informática</p>
+<p data-importer="text" align="center">Ingeniero Informático</p>
 
 ###
 
