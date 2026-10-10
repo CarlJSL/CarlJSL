@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="center">Ingeniero Informático</p>
+<p data-importer="text" align="center">Developer Full Stack - Ingeniero Informático</p>
 
 ###
 
